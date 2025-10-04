@@ -62,5 +62,5 @@ CarDekho leads India’s automotive digital space with **massive visibility, SEO
 ---
 
 👨‍💻 **Author:** Sushant Kishan Rathod
-📧 Contact: [your-email]
-🔗 GitHub: [your-profile-link]
+📧 Contact: [sushantrathod6288@gmail.com]
+🔗 GitHub: [https://github.com/Sushant-project62]

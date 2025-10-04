@@ -64,3 +64,16 @@ CarDekho leads India’s automotive digital space with **massive visibility, SEO
 👨‍💻 **Author:** Sushant Kishan Rathod
 📧 Contact: [sushantrathod6288@gmail.com]
 🔗 GitHub: [https://github.com/Sushant-project62]
+
+**Output**
+<img width="1241" height="699" alt="image" src="https://github.com/user-attachments/assets/49a26626-e495-46f4-bf69-feff6c10b6f7" />
+<img width="1264" height="702" alt="image" src="https://github.com/user-attachments/assets/0a607588-f04d-456d-86e1-d2d791cd9034" />
+<img width="767" height="433" alt="image" src="https://github.com/user-attachments/assets/b54ecfe5-cba4-4092-bb82-b9a8643a65a4" />
+<img width="765" height="434" alt="image" src="https://github.com/user-attachments/assets/3c167a09-4a47-4c39-9efd-b6bce2c64fa7" />
+<img width="771" height="432" alt="image" src="https://github.com/user-attachments/assets/8fbd2d77-4863-48aa-a897-172ec69bc493" />
+<img width="769" height="437" alt="image" src="https://github.com/user-attachments/assets/473f8faa-3f0e-4590-b083-9a1e17b14141" />
+<img width="766" height="434" alt="image" src="https://github.com/user-attachments/assets/e05ed5a9-ba50-4af9-a85a-fdc3246733a0" />
+
+
+
+
